@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 300" font-family="Menlo, Consolas, monospace" font-size="13.5">
+<rect x="0.5" y="0.5" width="489" height="299" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="30" fill="#58a6ff" font-weight="bold">kunalrohillaz7x@github</text>
+<line x1="24" y1="44.0" x2="466" y2="44.0" stroke="#30363d"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.4s" fill="freeze"/><text x="24" y="69.5" fill="#8b949e">Role</text><text x="113.7" y="69.5" fill="#c9d1d9">CSE Student @ IIIT Sonepat</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.21s" dur="0.4s" fill="freeze"/><text x="24" y="95.0" fill="#8b949e">Focus</text><text x="113.7" y="95.0" fill="#c9d1d9">Backend Engineering + DSA</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.27s" dur="0.4s" fill="freeze"/><text x="24" y="120.5" fill="#8b949e">Languages</text><text x="113.7" y="120.5" fill="#c9d1d9">C++, Python, JavaScript</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.33s" dur="0.4s" fill="freeze"/><text x="24" y="146.0" fill="#8b949e">Backend</text><text x="113.7" y="146.0" fill="#c9d1d9">FastAPI, PostgreSQL, SQLAlchemy</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.4s" fill="freeze"/><text x="24" y="171.5" fill="#8b949e">Tools</text><text x="113.7" y="171.5" fill="#c9d1d9">Git, GitHub, VS Code</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.4s" fill="freeze"/><text x="24" y="197.0" fill="#8b949e">Building</text><text x="113.7" y="197.0" fill="#c9d1d9">REST APIs &amp; Backend Projects</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.51s" dur="0.4s" fill="freeze"/><text x="24" y="222.5" fill="#8b949e">Learning</text><text x="113.7" y="222.5" fill="#c9d1d9">Open Source Development</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.57s" dur="0.4s" fill="freeze"/><text x="24" y="248.0" fill="#8b949e">LeetCode</text><text x="113.7" y="248.0" fill="#c9d1d9">Kunal_Rohilla</text></g>
+</svg>

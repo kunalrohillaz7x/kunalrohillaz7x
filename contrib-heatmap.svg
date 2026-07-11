@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 120" font-family="Menlo, Consolas, monospace" font-size="13">
+<rect x="0.5" y="0.5" width="859" height="119" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="55" fill="#8b949e">Contribution graph will appear here after the</text>
+<text x="24" y="75" fill="#8b949e">"Update profile art" workflow runs once (Actions tab -&gt; Run workflow).</text>
+</svg>
