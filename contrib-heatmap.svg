@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 756 172" font-family="Menlo, Consolas, monospace" font-size="11">
-<text x="4" y="16" fill="#8b949e">27 active days &middot; current streak 1 &middot; longest streak 4</text>
+<text x="4" y="16" fill="#8b949e">27 active days · current streak 1 · longest streak 4</text>
 <rect x="4" y="34" width="11" height="11" rx="2" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.000s" dur="0.5s" fill="freeze"/><title>2025-07-06: level 0</title></rect>
 <rect x="4" y="48" width="11" height="11" rx="2" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.006s" dur="0.5s" fill="freeze"/><title>2025-07-07: level 0</title></rect>
 <rect x="4" y="62" width="11" height="11" rx="2" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.013s" dur="0.5s" fill="freeze"/><title>2025-07-08: level 0</title></rect>
@@ -370,7 +370,7 @@
 <rect x="732" y="76" width="11" height="11" rx="2" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.374s" dur="0.5s" fill="freeze"/><title>2026-07-08: level 0</title></rect>
 <rect x="732" y="90" width="11" height="11" rx="2" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.381s" dur="0.5s" fill="freeze"/><title>2026-07-09: level 0</title></rect>
 <rect x="732" y="104" width="11" height="11" rx="2" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.387s" dur="0.5s" fill="freeze"/><title>2026-07-10: level 0</title></rect>
-<rect x="732" y="118" width="11" height="11" rx="2" fill="#26a641" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.394s" dur="0.5s" fill="freeze"/><title>2026-07-11: level 3</title></rect>
+<rect x="732" y="118" width="11" height="11" rx="2" fill="#39d353" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.394s" dur="0.5s" fill="freeze"/><title>2026-07-11: level 4</title></rect>
 <text x="4" y="156" fill="#8b949e">Less</text>
 <rect x="38" y="146" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="52" y="146" width="11" height="11" rx="2" fill="#0e4429"/>
