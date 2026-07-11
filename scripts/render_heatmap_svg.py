@@ -56,8 +56,8 @@ def main():
         f'font-family="{FONT}" font-size="11">'
     ]
 
-    header = (f'{data.get("active_days", 0)} active days &middot; '
-              f'current streak {data.get("current_streak", 0)} &middot; '
+    header = (f'{data.get("active_days", 0)} active days \u00b7 '
+              f'current streak {data.get("current_streak", 0)} \u00b7 '
               f'longest streak {data.get("longest_streak", 0)}')
     parts.append(f'<text x="{left_pad}" y="16" fill="{LABEL_COLOR}">{header}</text>')
 
