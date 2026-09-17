@@ -1,7 +1,7 @@
 {
   "user": "kunalrohillaz7x",
-  "generated_at": "2026-09-16T08:41:08.702699Z",
-  "current_streak": 2,
+  "generated_at": "2026-09-17T08:44:42.974064Z",
+  "current_streak": 0,
   "longest_streak": 4,
   "active_days": 26,
   "days": [
@@ -1476,6 +1476,10 @@
     {
       "date": "2026-09-16",
       "level": 2
+    },
+    {
+      "date": "2026-09-17",
+      "level": 0
     }
   ]
 }
