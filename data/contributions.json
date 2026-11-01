@@ -1,38 +1,10 @@
 {
   "user": "kunalrohillaz7x",
-  "generated_at": "2026-10-31T09:46:09.701372Z",
+  "generated_at": "2026-11-01T10:36:51.572342Z",
   "current_streak": 0,
   "longest_streak": 5,
   "active_days": 34,
   "days": [
-    {
-      "date": "2025-10-26",
-      "level": 0
-    },
-    {
-      "date": "2025-10-27",
-      "level": 0
-    },
-    {
-      "date": "2025-10-28",
-      "level": 0
-    },
-    {
-      "date": "2025-10-29",
-      "level": 0
-    },
-    {
-      "date": "2025-10-30",
-      "level": 0
-    },
-    {
-      "date": "2025-10-31",
-      "level": 0
-    },
-    {
-      "date": "2025-11-01",
-      "level": 0
-    },
     {
       "date": "2025-11-02",
       "level": 0
@@ -1487,6 +1459,10 @@
     },
     {
       "date": "2026-10-31",
+      "level": 0
+    },
+    {
+      "date": "2026-11-01",
       "level": 0
     }
   ]
